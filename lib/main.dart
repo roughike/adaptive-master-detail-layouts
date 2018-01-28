@@ -1,4 +1,4 @@
-import 'package:adaptive_master_detail_layouts/item_listing.dart';
+import 'package:adaptive_master_detail_layouts/master_detail_container.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(new MyApp());
@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
       theme: new ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: new ItemListing(),
+      home: new MasterDetailContainer(),
     );
   }
 }

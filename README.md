@@ -1,8 +1,11 @@
-# adaptive_master_detail_layouts
+# What is it?
 
-A new Flutter application.
+Sample project for implementing adaptive master-detail layouts in Flutter.
 
-## Getting Started
+[Read the blogpost here](https://flutter.rocks/2018/01/28/implementing-adaptive-master-detail-layouts/).
 
-For help getting started with Flutter, view our online
-[documentation](http://flutter.io/).
+All the related source code is located in [the /lib folder](https://github.com/FlutterRocks/adaptive-master-detail-layouts/tree/master/lib); no separate Android / iOS code needed.
+
+The end result looks a little something like this:
+
+![Adaptive master-detail layout sample on a mobile and tablet device.](https://github.com/FlutterRocks/adaptive-master-detail-layouts/raw/master/end-result.gif)

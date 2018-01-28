@@ -8,4 +8,4 @@ All the related source code is located in [the /lib folder](https://github.com/F
 
 The end result looks a little something like this:
 
-![Adaptive master-detail layout sample on a mobile and tablet device.](https://github.com/FlutterRocks/adaptive-master-detail-layouts/raw/master/end-result.gif)
+![Adaptive master-detail layout sample on a mobile and tablet device.](https://github.com/FlutterRocks/adaptive-master-detail-layouts/raw/master/updated-end-result.gif)

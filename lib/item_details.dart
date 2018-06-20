@@ -14,14 +14,14 @@ class ItemDetails extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final TextTheme textTheme = Theme.of(context).textTheme;
-    final Widget content = new Column(
+    final Widget content = Column(
       mainAxisAlignment: MainAxisAlignment.center,
       children: [
-        new Text(
+        Text(
           item?.title ?? 'No item selected!',
           style: textTheme.headline,
         ),
-        new Text(
+        Text(
           item?.subtitle ?? 'Please select one on the left.',
           style: textTheme.subhead,
         ),
@@ -29,14 +29,14 @@ class ItemDetails extends StatelessWidget {
     );
 
     if (isInTabletLayout) {
-      return new Center(child: content);
+      return Center(child: content);
     }
 
-    return new Scaffold(
-      appBar: new AppBar(
-        title: new Text(item.title),
+    return Scaffold(
+      appBar: AppBar(
+        title: Text(item.title),
       ),
-      body: new Center(child: content),
+      body: Center(child: content),
     );
   }
 }

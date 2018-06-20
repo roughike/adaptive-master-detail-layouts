@@ -8,7 +8,7 @@ import 'package:flutter/material.dart';
 class MasterDetailContainer extends StatefulWidget {
   @override
   _ItemMasterDetailContainerState createState() =>
-      new _ItemMasterDetailContainerState();
+      _ItemMasterDetailContainerState();
 }
 
 class _ItemMasterDetailContainerState extends State<MasterDetailContainer> {
@@ -17,13 +17,13 @@ class _ItemMasterDetailContainerState extends State<MasterDetailContainer> {
   Item _selectedItem;
 
   Widget _buildMobileLayout() {
-    return new ItemListing(
+    return ItemListing(
       itemSelectedCallback: (item) {
         Navigator.push(
           context,
-          new MaterialPageRoute(
+          MaterialPageRoute(
             builder: (BuildContext context) {
-              return new ItemDetails(
+              return ItemDetails(
                 isInTabletLayout: false,
                 item: item,
               );
@@ -35,13 +35,13 @@ class _ItemMasterDetailContainerState extends State<MasterDetailContainer> {
   }
 
   Widget _buildTabletLayout() {
-    return new Row(
+    return Row(
       children: <Widget>[
-        new Flexible(
+        Flexible(
           flex: 1,
-          child: new Material(
+          child: Material(
             elevation: 4.0,
-            child: new ItemListing(
+            child: ItemListing(
               itemSelectedCallback: (item) {
                 setState(() {
                   _selectedItem = item;
@@ -51,9 +51,9 @@ class _ItemMasterDetailContainerState extends State<MasterDetailContainer> {
             ),
           ),
         ),
-        new Flexible(
+        Flexible(
           flex: 3,
-          child: new ItemDetails(
+          child: ItemDetails(
             isInTabletLayout: true,
             item: _selectedItem,
           ),
@@ -64,11 +64,11 @@ class _ItemMasterDetailContainerState extends State<MasterDetailContainer> {
 
   @override
   Widget build(BuildContext context) {
-    return new Scaffold(
-      appBar: new AppBar(
-        title: new Text('Master-detail flow sample'),
+    return Scaffold(
+      appBar: AppBar(
+        title: Text('Master-detail flow sample'),
       ),
-      body: new LayoutBuilder(
+      body: LayoutBuilder(
         builder: (context, constraints) {
           final double smallestDimension = min(
             constraints.maxWidth,

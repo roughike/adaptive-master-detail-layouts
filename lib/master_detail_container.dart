@@ -64,24 +64,20 @@ class _ItemMasterDetailContainerState extends State<MasterDetailContainer> {
 
   @override
   Widget build(BuildContext context) {
+    Widget content;
+    var shortestSide = MediaQuery.of(context).size.shortestSide;
+
+    if (shortestSide < kTabletBreakpoint) {
+      content = _buildMobileLayout();
+    } else {
+      content = _buildTabletLayout();
+    }
+
     return Scaffold(
       appBar: AppBar(
         title: Text('Master-detail flow sample'),
       ),
-      body: LayoutBuilder(
-        builder: (context, constraints) {
-          final double smallestDimension = min(
-            constraints.maxWidth,
-            constraints.maxHeight,
-          );
-
-          if (smallestDimension < kTabletBreakpoint) {
-            return _buildMobileLayout();
-          }
-
-          return _buildTabletLayout();
-        },
-      ),
+      body: content,
     );
   }
 }

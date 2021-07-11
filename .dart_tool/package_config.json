@@ -3,337 +3,337 @@
   "packages": [
     {
       "name": "async",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/async-2.6.1",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/async-2.6.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "boolean_selector",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/boolean_selector-2.1.0",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/boolean_selector-2.1.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "characters",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/characters-1.1.0",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/characters-1.1.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "charcode",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/charcode-1.2.0",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/charcode-1.2.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "clock",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/clock-1.1.0",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/clock-1.1.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "collection",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/collection-1.15.0",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/collection-1.15.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "cupertino_icons",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-1.0.3",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/cupertino_icons-1.0.3",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "fake_async",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/fake_async-1.2.0",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/fake_async-1.2.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "ffi",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/ffi-1.1.2",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/ffi-1.1.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "file",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/file-6.1.2",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/file-6.1.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "flutter",
-      "rootUri": "file:///Users/rebecca/flutter/packages/flutter",
+      "rootUri": "file:///C:/Users/astra/flutter/packages/flutter",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "flutter_test",
-      "rootUri": "file:///Users/rebecca/flutter/packages/flutter_test",
+      "rootUri": "file:///C:/Users/astra/flutter/packages/flutter_test",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "flutter_web_plugins",
-      "rootUri": "file:///Users/rebecca/flutter/packages/flutter_web_plugins",
+      "rootUri": "file:///C:/Users/astra/flutter/packages/flutter_web_plugins",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "intl",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/intl-0.17.0",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/intl-0.17.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "js",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/js-0.6.3",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/js-0.6.3",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "matcher",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/matcher-0.12.10",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/matcher-0.12.10",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "meta",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/meta-1.3.0",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/meta-1.3.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "nested",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/nested-1.0.0",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/nested-1.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "path",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/path-1.8.0",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/path-1.8.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "path_provider",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.2",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/path_provider-2.0.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "path_provider_linux",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.0.0",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/path_provider_linux-2.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "path_provider_macos",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-2.0.0",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/path_provider_macos-2.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "path_provider_platform_interface",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/path_provider_platform_interface-2.0.1",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/path_provider_platform_interface-2.0.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "path_provider_windows",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.0.1",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/path_provider_windows-2.0.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "platform",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/platform-3.0.0",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/platform-3.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "plugin_platform_interface",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/plugin_platform_interface-2.0.1",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/plugin_platform_interface-2.0.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "process",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/process-4.2.1",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/process-4.2.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "provider",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/provider-5.0.0",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/provider-5.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "shared_preferences",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/shared_preferences-2.0.6",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/shared_preferences-2.0.6",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "shared_preferences_linux",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/shared_preferences_linux-2.0.0",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/shared_preferences_linux-2.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "shared_preferences_macos",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-2.0.0",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/shared_preferences_macos-2.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "shared_preferences_platform_interface",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/shared_preferences_platform_interface-2.0.0",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/shared_preferences_platform_interface-2.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "shared_preferences_web",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-2.0.0",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/shared_preferences_web-2.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "shared_preferences_windows",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/shared_preferences_windows-2.0.0",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/shared_preferences_windows-2.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "sky_engine",
-      "rootUri": "file:///Users/rebecca/flutter/bin/cache/pkg/sky_engine",
+      "rootUri": "file:///C:/Users/astra/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "source_span",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/source_span-1.8.1",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/source_span-1.8.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "sqflite",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/sqflite-2.0.0+3",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/sqflite-2.0.0+3",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "sqflite_common",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/sqflite_common-2.0.0+2",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/sqflite_common-2.0.0+2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "sqflite_common_ffi",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/sqflite_common_ffi-2.0.0+1",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/sqflite_common_ffi-2.0.0+1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "sqlite3",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/sqlite3-1.1.2",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/sqlite3-1.1.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "stack_trace",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/stack_trace-1.10.0",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/stack_trace-1.10.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "stream_channel",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/stream_channel-2.1.0",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/stream_channel-2.1.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "string_scanner",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/string_scanner-1.1.0",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/string_scanner-1.1.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "synchronized",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/synchronized-3.0.0",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/synchronized-3.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "term_glyph",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.2.0",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/term_glyph-1.2.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "test_api",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/test_api-0.3.0",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/test_api-0.3.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "typed_data",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/typed_data-1.3.0",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/typed_data-1.3.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "url_launcher",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/url_launcher-6.0.9",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/url_launcher-6.0.9",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "url_launcher_linux",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/url_launcher_linux-2.0.0",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/url_launcher_linux-2.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "url_launcher_macos",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/url_launcher_macos-2.0.0",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/url_launcher_macos-2.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "url_launcher_platform_interface",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/url_launcher_platform_interface-2.0.4",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/url_launcher_platform_interface-2.0.4",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "url_launcher_web",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/url_launcher_web-2.0.1",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/url_launcher_web-2.0.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "url_launcher_windows",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/url_launcher_windows-2.0.0",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/url_launcher_windows-2.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "vector_math",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/vector_math-2.1.0",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/vector_math-2.1.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "win32",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/win32-2.2.5",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/win32-2.2.5",
       "packageUri": "lib/",
       "languageVersion": "2.13"
     },
     {
       "name": "xdg_directories",
-      "rootUri": "file:///Users/rebecca/.pub-cache/hosted/pub.dartlang.org/xdg_directories-0.2.0",
+      "rootUri": "file:///C:/Users/astra/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/xdg_directories-0.2.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -344,7 +344,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2021-07-11T14:21:41.456191Z",
+  "generated": "2021-07-11T15:21:38.347439Z",
   "generator": "pub",
-  "generatorVersion": "2.13.4"
+  "generatorVersion": "2.13.3"
 }

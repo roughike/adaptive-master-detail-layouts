@@ -1,7 +1,10 @@
+import 'package:dictionary/model/app_state_model.dart';
 import 'package:dictionary/model/word.dart';
-import 'package:dictionary/item_details.dart';
-import 'package:dictionary/word_listing.dart';
+// import 'package:dictionary/word_detail.dart';
+import 'package:dictionary/word_edit.dart';
+import 'package:dictionary/word_list.dart';
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
 
 class AppContainer extends StatefulWidget {
   @override
@@ -15,13 +18,15 @@ class _AppContainerState extends State<AppContainer> {
   Word? _selectedWord;
 
   Widget _buildMobileLayout() {
-    return WordListing(
+    return WordList(
       wordSelectedCallback: (word) {
+        Provider.of<AppStateModel>(context, listen: false)
+            .selectWord(word.id);
         Navigator.push(
           context,
           MaterialPageRoute(
             builder: (BuildContext context) {
-              return WordDetails(
+              return WordEdit(
                 isInTabletLayout: false,
                 word: word,
               );
@@ -39,7 +44,7 @@ class _AppContainerState extends State<AppContainer> {
           flex: 1,
           child: Material(
             elevation: 4.0,
-            child: WordListing(
+            child: WordList(
               wordSelectedCallback: (word) {
                 setState(() {
                   _selectedWord = word;
@@ -51,7 +56,7 @@ class _AppContainerState extends State<AppContainer> {
         ),
         Flexible(
           flex: 3,
-          child: WordDetails(
+          child: WordEdit(
             isInTabletLayout: true,
             word: _selectedWord,
           ),
@@ -73,6 +78,10 @@ class _AppContainerState extends State<AppContainer> {
 
     return Scaffold(
       appBar: AppBar(
+        leading: IconButton(
+          icon: Icon(Icons.search),
+          onPressed: () { }
+        ),
         title: Text('Icelandic Vocabulary Database'),
       ),
       body: content,

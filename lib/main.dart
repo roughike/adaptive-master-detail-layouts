@@ -28,9 +28,6 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Icelandic Vocabulary Database',
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-      ),
       home: AppContainer(),
     );
   }

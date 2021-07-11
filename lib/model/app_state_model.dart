@@ -73,6 +73,17 @@ class AppStateModel extends foundation.ChangeNotifier {
     notifyListeners();
   }
 
+  Future upsertWord(Word word) async {
+    if (word.id == null) {
+      word.id = DateTime
+          .now()
+          .millisecondsSinceEpoch;
+      _words.insert(word.partId, word);
+    } else {
+      _words[_words.indexWhere((w) => w.id == word.id)] = word;
+    }
+  }
+
   Future upsertVerb(Word word, Conjugation conjugation) async {
     if (word.id == null) {
       word.id = DateTime.now().millisecondsSinceEpoch;

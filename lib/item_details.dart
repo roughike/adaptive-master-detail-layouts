@@ -1,15 +1,14 @@
-import 'package:dictionary/item.dart';
+import 'package:dictionary/model/word.dart';
 import 'package:flutter/material.dart';
-import 'package:meta/meta.dart';
 
-class ItemDetails extends StatelessWidget {
-  ItemDetails({
+class WordDetails extends StatelessWidget {
+  WordDetails({
     required this.isInTabletLayout,
-    required this.item,
+    required this.word,
   });
 
   final bool isInTabletLayout;
-  final Item? item;
+  final Word? word;
 
   @override
   Widget build(BuildContext context) {
@@ -18,12 +17,12 @@ class ItemDetails extends StatelessWidget {
       mainAxisAlignment: MainAxisAlignment.center,
       children: [
         Text(
-          item?.title ?? 'No item selected!',
-          style: textTheme.headline,
+          word?.isl ?? 'No item selected!',
+          style: textTheme.headline5,
         ),
         Text(
-          item?.subtitle ?? 'Please select one on the left.',
-          style: textTheme.subhead,
+          word?.eng ?? 'Please select one on the left.',
+          style: textTheme.subtitle1,
         ),
       ],
     );
@@ -34,7 +33,7 @@ class ItemDetails extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text(item!.title),
+        title: Text(word!.isl),
       ),
       body: Center(child: content),
     );

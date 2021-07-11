@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:dictionary/master_detail_container.dart';
+import 'package:dictionary/app_container.dart';
 import 'package:dictionary/model/app_state_model.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
@@ -26,11 +26,12 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Master-Detail example',
+      title: 'Icelandic Vocabulary Database',
+      debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: MasterDetailContainer(),
+      home: AppContainer(),
     );
   }
 }

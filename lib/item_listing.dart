@@ -1,4 +1,4 @@
-import 'package:adaptive/item.dart';
+import 'package:dictionary/item.dart';
 import 'package:flutter/material.dart';
 import 'package:meta/meta.dart';
 

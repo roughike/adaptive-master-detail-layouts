@@ -1,8 +1,8 @@
 import 'dart:math';
 
-import 'package:adaptive/item.dart';
-import 'package:adaptive/item_details.dart';
-import 'package:adaptive/item_listing.dart';
+import 'package:dictionary/item.dart';
+import 'package:dictionary/item_details.dart';
+import 'package:dictionary/item_listing.dart';
 import 'package:flutter/material.dart';
 
 class MasterDetailContainer extends StatefulWidget {

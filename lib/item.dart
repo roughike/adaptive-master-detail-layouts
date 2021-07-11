@@ -2,8 +2,8 @@ import 'package:meta/meta.dart';
 
 class Item {
   Item({
-    @required this.title,
-    @required this.subtitle,
+    required this.title,
+    required this.subtitle,
   });
 
   final String title;

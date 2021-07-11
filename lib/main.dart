@@ -1,4 +1,4 @@
-import 'package:adaptive_master_detail_layouts/master_detail_container.dart';
+import 'package:adaptive/master_detail_container.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());

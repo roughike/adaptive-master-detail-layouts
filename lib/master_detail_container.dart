@@ -1,8 +1,8 @@
 import 'dart:math';
 
-import 'package:adaptive_master_detail_layouts/item.dart';
-import 'package:adaptive_master_detail_layouts/item_details.dart';
-import 'package:adaptive_master_detail_layouts/item_listing.dart';
+import 'package:adaptive/item.dart';
+import 'package:adaptive/item_details.dart';
+import 'package:adaptive/item_listing.dart';
 import 'package:flutter/material.dart';
 
 class MasterDetailContainer extends StatefulWidget {
@@ -14,7 +14,7 @@ class MasterDetailContainer extends StatefulWidget {
 class _ItemMasterDetailContainerState extends State<MasterDetailContainer> {
   static const int kTabletBreakpoint = 600;
 
-  Item _selectedItem;
+  Item? _selectedItem;
 
   Widget _buildMobileLayout() {
     return ItemListing(
